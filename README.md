@@ -15,8 +15,6 @@ ________________________________________________________________________________
 
 ~$ bash metasploit-6-termux.sh
 
-~$ cd Metasploit-in-termux
-
 ~$ msfconsole
 
 ~$ cd metasploit-framework;
